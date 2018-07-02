@@ -47,16 +47,16 @@
 * 9:30 受付開始
 * 9:45-10:05 「はじめに：統合データベースプロジェクトとは？」
 * 10:05-10:15 「統合TV」
-* 10:15-11:15 [「生命科学横断検索の利用法」](http://MotDB.DBCLS.jp/?AJACS14%2Fsk2 "AJACS14/sk2 (3160d)")、番外編/[生物アイコン](http://MotDB.DBCLS.jp/?AJACS14%2Fbando "AJACS14/bando (3157d)")
+* 10:15-11:15 [「生命科学横断検索の利用法」](01_kawano.md)、番外編/[生物アイコン](02_bando.md)
 * 11:15-11:45 特別講演「科学データは誰のものか」国立遺伝学研究所 大久保公策 先生
 * 11:45-13:00 昼休憩
 
 * 13:00-13:30 招待講演「FANTOM4プロジェクトに見る次世代シーケンサの可能性とデータベース」理化学研究所 オミックス基盤領域 川路英哉 先生
 * 13:30-14:00 [「DNAデータベースの使い方」](http://rgm2.lab.nig.ac.jp/pukiwiki/index.php)
-* 14:00-14:45 [「遺伝子発現データベースを使い倒す」](http://MotDB.DBCLS.jp/?AJACS14%2Fthecla "AJACS14/thecla (3161d)")
+* 14:00-14:45 [「遺伝子発現データベースを使い倒す」](03_nakazato.md)
 * 14:45-15:15 休憩
-* 15:15-16:00 「[アナトモグラフィー/BodyParts3Dの利用法](http://MotDB.DBCLS.jp/?AJACS14%2Fmitsuhashi "AJACS14/mitsuhashi (3155d)")」
-* 16:00-16:45 「[Genome AnnotationとKazusaAnnotation ](http://MotDB.DBCLS.jp/?AJACS14%2Fso "AJACS14/so (3160d)")」
+* 15:15-16:00 「[アナトモグラフィー/BodyParts3Dの利用法](04_mitsuhashi.md)」
+* 16:00-16:45 「[Genome AnnotationとKazusaAnnotation ](05_so.md」
 * 16:45-17:00 「おわりに」
 
 }}
